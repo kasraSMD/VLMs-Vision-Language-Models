@@ -54,12 +54,14 @@ A practical, notebook-driven guide to **Vision-Language Models**. The series sta
 
 ## 🧭 Learning Path
 
-```mermaid
-flowchart LR
-    A[01-03<br/>CLIP & SigLIP] --> B[04-09<br/>Captioning, Detection,<br/>Multimodal & Video]
-    B --> C[10-13<br/>Supervised<br/>Fine-Tuning]
-    C --> D[14-16<br/>DPO / GRPO / MPO<br/>Alignment]
-```
+| Stage | Notebooks | Focus |
+|:-:|:-:|---|
+| 1️⃣ | 01 – 03 | CLIP and SigLIP: image-text embeddings |
+| 2️⃣ | 04 – 09 | Captioning, detection, multimodal chat, video |
+| 3️⃣ | 10 – 13 | Supervised fine-tuning (OCR, radiology, grounding) |
+| 4️⃣ | 14 – 16 | DPO, GRPO, MPO alignment |
+
+**01–03 CLIP** ➜ **04–09 Inference** ➜ **10–13 SFT** ➜ **14–16 Alignment**
 
 ---
 
