@@ -54,14 +54,18 @@ A practical, notebook-driven guide to **Vision-Language Models**. The series sta
 
 ## 🧭 Learning Path
 
+<div align="center">
+
+<img src="./learning_path_vlm.svg" alt="VLM learning path: CLIP and SigLIP, Inference, Supervised Fine-Tuning, Alignment" width="100%"/>
+
+</div>
+
 | Stage | Notebooks | Focus |
 |:-:|:-:|---|
 | 1️⃣ | 01 – 03 | CLIP and SigLIP: image-text embeddings |
 | 2️⃣ | 04 – 09 | Captioning, detection, multimodal chat, video |
 | 3️⃣ | 10 – 13 | Supervised fine-tuning (OCR, radiology, grounding) |
 | 4️⃣ | 14 – 16 | DPO, GRPO, MPO alignment |
-
-**01–03 CLIP** ➜ **04–09 Inference** ➜ **10–13 SFT** ➜ **14–16 Alignment**
 
 ---
 
